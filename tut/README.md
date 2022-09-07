@@ -1,4 +1,4 @@
-in this course we r going to learn about react query
+in this course we r going to learn about react table
 
 1)react table setup
 2)group headers and footers
